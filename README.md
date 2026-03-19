@@ -1,6 +1,14 @@
 # AI 去水印工具 - Cloudflare Workers 版
 
+[![GitHub stars](https://img.shields.io/github/stars/zhuwei290/watermark-remover-cf)](https://github.com/zhuwei290/watermark-remover-cf/stargazers)
+[![GitHub license](https://img.shields.io/github/license/zhuwei290/watermark-remover-cf)](https://github.com/zhuwei290/watermark-remover-cf/blob/main/LICENSE)
+[![WaveSpeed API](https://img.shields.io/badge/API-WaveSpeed%20AI-blue)](https://wavespeed.ai)
+
 基于 WaveSpeed AI 的智能去水印网站，完全无服务器架构，图片内存处理不存储。
+
+## 🌐 在线演示
+
+访问：https://github.com/zhuwei290/watermark-remover-cf
 
 ## 🚀 快速部署
 
