@@ -1,0 +1,17 @@
+{
+  "name": "watermark-remover-cf",
+  "version": "1.0.0",
+  "description": "AI 去水印网站 - Cloudflare Workers 部署",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "init": "wrangler init"
+  },
+  "keywords": ["watermark", "remover", "cloudflare", "workers"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}
